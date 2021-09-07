@@ -1,0 +1,11 @@
+{
+    "name": "tikvreader",
+    "parameter": {
+        "tikvConfig": [],
+        "table": "",
+        "range": {
+            "startRowkey": "",
+            "endRowkey": ""
+        }
+    }
+}
